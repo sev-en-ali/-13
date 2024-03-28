@@ -18,7 +18,7 @@ fghj
         // Пример вызова метода с разными локалями
         Locale russianLocale = new Locale("ru", "RU");
         Locale englishLocale = new Locale("en", "US");
-        System.out.println("Информация на русском: ");
+        System.out.println("Информация на русском: ");gvhjkm
         print(russianLocale);
         System.out.println("Information in English:");
         print(englishLocale);
