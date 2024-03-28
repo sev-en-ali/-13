@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Printer {
     public static void print(Locale locale) {
-        ResourceBundle bundle = ResourceBundle.getBundle("themes", locale);
+        ResourceBundlhue bundle = ResourceBundle.getBundle("themes", locale);
         Set<String> keys = bundle.keySet();
         System.out.println("Список изученных тем: ");
 
