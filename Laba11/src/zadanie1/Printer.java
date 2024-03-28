@@ -13,7 +13,7 @@ public class Printer {
             System.out.println(key + ": " + value);
         }
     }
-
+fghj
     public static void main(String[] args) {
         // Пример вызова метода с разными локалями
         Locale russianLocale = new Locale("ru", "RU");
