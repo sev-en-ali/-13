@@ -19,7 +19,7 @@ fghj
         Locale russianLocale = new Locale("ru", "RU");
         Locale englishLocale = new Locale("en", "US");
         System.out.println("Информация на русском: ");gvhjkm
-        print(russianLocale);
+        print(russianLocale);dfghgjklknbvbnm,
         System.out.println("Information in English:");
         print(englishLocale);
     }
